@@ -15,4 +15,4 @@ https://lnkd.in/eZNVEu_6
 4. According to my query, similarity_search is done based on VectorStore or db and query. This is to find out the lowest distanced embedded chunks.
 5. Load the LLM from HuggingFaceHub
 6. for LLMChain input the lowest distanced embedded chunks with LLM,
-7. For proper answers, try different models, used for specific tasks. (eg: texttotext) 
+7. For proper answers, try different models, used for specific tasks. (eg: text_to_text) 
